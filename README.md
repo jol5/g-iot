@@ -8,3 +8,7 @@ golang 编写的简单iot连接平台（熟练golang用）
   3. 可配置自定义协议
   4. 可转发数据到三方组件（MQ、HTTP）
   5. 可OTA推送、管理
+
+
+愿景：
+![image](https://user-images.githubusercontent.com/28615922/139371463-7eef0a79-ad6d-404d-8785-faefa548fef2.png)
